@@ -197,7 +197,4 @@ performance.
 
 ------------------------------------------------------------------------
 
-# Author
 
-Praveen Kumar\
-BCG Data Science Virtual Experience --- Forage
