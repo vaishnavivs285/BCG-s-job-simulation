@@ -8,6 +8,26 @@ The project follows a complete data science workflow including Exploratory Data 
 
 ---
 
+## Client and Business Problem
+
+• The client is PowerCo, an energy supply company that provides electricity and gas services to business customers.
+
+• PowerCo has been experiencing customer churn, where customers stop using their services and switch to competitors.
+
+• Customer churn leads to loss of revenue and increases the cost of acquiring new customers.
+
+• PowerCo wants to understand the main factors causing customers to churn.
+
+• The company is especially concerned about how electricity price changes influence customer churn.
+
+• PowerCo wants to identify customers at high risk of churn in advance.
+
+• This will help the company take preventive actions such as offering discounts, better pricing, or improved customer service.
+
+• The goal of this project is to analyze customer and pricing data, identify churn drivers, and build a predictive model to detect at-risk customers.
+
+---
+
 ## Business Objective
 Customer churn directly impacts business revenue. The objective of this project is to:
 
